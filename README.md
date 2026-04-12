@@ -28,13 +28,5 @@ The workflow combines:
 - SBML
 - Genome-scale metabolic models (GEMs)
 
-## Repository Structure
-
-```text
-.
-├── data/              # Input data, media definitions, and tables
-├── models/            # Curated or reconstructed GEMs
-├── notebooks/         # Analysis notebooks
-├── scripts/          # Python scripts for model curation and simulation
-├── results/           # Output tables, figures, and simulation outputs
-└── README.md
+## Autor
+Sara Sousa (PG59766)
