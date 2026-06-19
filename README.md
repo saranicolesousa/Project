@@ -26,10 +26,15 @@ The workflow combines:
 ## Folder Organization & Contents
 
 docs/          → article, intermediate report, slides
+
 models/        → raw and curated GEMs
+
 notebooks/     → analysis code, one per objective
+
 reports/       → memote QC reports (pre/post curation)
+
 results/       → output CSVs and figures, by objective
+
 legume_medium1_v2.py / utils.py → shared Python modules
 
 **`docs/`**
