@@ -1,0 +1,7 @@
+matrix,perturbation,mu_Lp,mu_Lm,delta_Lp_pct,delta_Lm_pct,differential_pp,baseline_Lp,baseline_Lm
+chickpea,No_sucrose_maltose,0.3916,0.1076,-30.63,0.0,-30.63,0.5645,0.1076
+chickpea,LowAA,0.5645,0.1076,-0.0,0.0,-0.0,0.5645,0.1076
+chickpea,Anaerobic,0.5645,0.1076,0.0,-0.0,-0.0,0.5645,0.1076
+fava_bean,No_sucrose_maltose,0.1535,0.0819,-54.99,-9.7,-45.29,0.3411,0.0907
+fava_bean,LowAA,0.3421,0.0721,0.28,-20.47,20.19,0.3411,0.0907
+fava_bean,Anaerobic,0.3403,0.0447,-0.23,-50.75,50.52,0.3411,0.0907

@@ -1,0 +1,7 @@
+config,matrix,ab_Lp,ab_Lm,tradeoff,status,mu_Lp,mu_Lm,lactate_L_total,lactate_D_total,ethanol_total,acetate_total,CO2_total,formate_total,acetoin_total,mannitol_total,succinate_total,pyruvate_total,alanine_total,glutamate_total,leucine_total,3_methylbutanoate_total,2_methylbutanoate_total,2_methylpropanoate_total,hexanol_total
+Lp75_chickpea,chickpea,0.75,0.25,0.5,optimal,0.5310290469397911,0.17700968231326358,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lp75_fava_bean,fava_bean,0.75,0.25,0.5,optimal,0.34823280283482894,0.11607760094494302,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eq50_chickpea,chickpea,0.5,0.5,0.5,optimal,0.43897649610514816,0.43897649610514816,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eq50_fava_bean,fava_bean,0.5,0.5,0.5,optimal,0.287515245223456,0.287515245223456,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lm75_chickpea,chickpea,0.25,0.75,0.5,optimal,0.17417151457085894,0.5225145437125771,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lm75_fava_bean,fava_bean,0.25,0.75,0.5,optimal,0.11393459486753726,0.3418037846026119,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
