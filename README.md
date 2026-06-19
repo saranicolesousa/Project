@@ -52,7 +52,7 @@ Numerical outputs and figures from the notebooks, named by objective. `obj4_*` c
 
 ## Tools and Technologies
 
-- Python, COBRApy, Genome-scale metabolic models (GEMs), SMETANA, MICOM, ReFramed
+- Python, COBRApy, Genome-scale metabolic models (GSMMs), SMETANA, MICOM, ReFramed
 
 ## Author
 Sara Sousa (PG59766)
