@@ -50,6 +50,16 @@ Numerical outputs and figures from the notebooks, named by objective. `obj4_*` c
 **Root files**
 `legume_medium1_v2.py` and `utils.py` are shared Python modules imported by the notebooks — medium construction logic and general helper functions, respectively.
 
+## How to Run
+
+1. Download/clone the repository, keeping the full folder structure inside one parent folder.
+
+2. Set up the environment, installing all the necessary packages.
+
+3. Install Gurobi.
+
+4. Run notebooks in order from `notebooks/`: `obj1_*` → `obj2_*` → `obj3_*` → `obj4_obj5_*`. Each depends on outputs from the previous one.
+
 ## Tools and Technologies
 
 - Python, COBRApy, Genome-scale metabolic models (GSMMs), SMETANA, MICOM, ReFramed
