@@ -10,9 +10,9 @@ This repository contains the jupyter notebooks, notes, results and supporting ma
 The project aims to use genome-scale metabolic models (GSMMs) to study microbial interactions in plant-based matrices, with a focus on chickpea and fava bean fermentations. The main goal is to investigate how selected LAB strains may contribute to the mitigation of off-flavors and to the identification of favorable fermentation conditions through computational modeling.
 
 The workflow combines:
-- curation and standardization of GEMs,
-- definition of legume-based growth media,
-- interaction analysis using SMETANA,
+- curation and standardization of GEMs;
+- definition of legume-based growth media;
+- interaction analysis using SMETANA;
 - community simulation using MICOM.
 
 ## Objectives
