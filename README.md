@@ -25,31 +25,6 @@ The workflow combines:
 
 ## Folder Organization & Contents
 
-project/
-├── docs/
-│   ├── Artigo_Final_pg59766.pdf
-│   ├── Artigo_Intercalar_pg59766.pdf
-│   └── ppt_SaraSousa_pg59766.pdf
-├── models/
-│   ├── raw/
-│   └── curated/
-├── notebooks/
-│   ├── obj1_gem_lplantarum.ipynb
-│   ├── obj1_gem_lmesenteroides.ipynb
-│   ├── ...
-├── reports/
-│   └── memote/
-│       ├── report_ilp728.html
-│       ├── report_ilp728_v2.html
-│       ├── ...
-├── results/
-│   ├── obj4_abundance_sweep.csv
-│   ├── obj4_abundance_sweep.png
-│   ├── ...
-├── legume_medium1_v2.py
-├── utils.py
-└── README.md
-
 **`docs/`**
 Final deliverables: the final article (`Artigo_Final_pg59766.pdf`, LNCS format), the intermediate report submitted earlier in the project (`Artigo_Intercalar_pg59766.pdf`), and presentation slides (`ppt_SaraSousa_pg59766.pdf`).
 
