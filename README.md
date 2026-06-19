@@ -25,6 +25,12 @@ The workflow combines:
 
 ## Folder Organization & Contents
 
+docs/          → article, intermediate report, slides
+models/        → raw and curated GEMs
+notebooks/     → analysis code, one per objective
+reports/       → memote QC reports (pre/post curation)
+results/       → output CSVs and figures, by objective
+legume_medium1_v2.py / utils.py → shared Python modules
 
 **`docs/`**
 Final deliverables: the final article (`Artigo_Final_pg59766.pdf`, LNCS format), the intermediate report submitted earlier in the project (`Artigo_Intercalar_pg59766.pdf`), and presentation slides (`ppt_SaraSousa_pg59766.pdf`).
